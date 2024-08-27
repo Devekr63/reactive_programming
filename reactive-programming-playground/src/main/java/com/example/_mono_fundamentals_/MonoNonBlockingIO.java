@@ -18,6 +18,6 @@ public class MonoNonBlockingIO {
         }
 
         logger.info("Fetching product details");
-        Util.sleepSeconds(2);
+        Util.sleepSeconds(5);
     }
 }
